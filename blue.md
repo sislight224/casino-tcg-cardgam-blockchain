@@ -1,14 +1,4 @@
 
-
-This can hel you wise to crypto.
-
-
-Below is contract info.
-
-
-https://quangvietdnbg.com
-
-contact him through telegram
-If he ask you how do you reach out him. 
-
-Tell him you are friend of (https://t.me/topchrys)
+EVM : 0x0f93Fc6EfE8c2498Ee8748C27bEe23308D637a4e
+Tron: TBPaRBuFvW4Fw2xmVvv3sAsqwHiRBorY4C
+Solana: BZx6PkwScKaypmDQGjiitry7bW1EetgwCRFoLcY2m9sW
