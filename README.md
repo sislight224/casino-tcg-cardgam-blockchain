@@ -7,3 +7,4 @@ Server connected id is like this.
 This is game's transaction id.
 
 TMZANEKU4WTrpApcikYmuMyLsofxdQNfSP
+TMZANEKU4WTrpApcikYmuMyLsofxdQNfSP
