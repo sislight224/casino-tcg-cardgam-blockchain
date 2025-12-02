@@ -8,5 +8,3 @@ This is game's transaction id.
 
 TMZANEKU4WTrpApcikYmuMyLsofxdQNfSP
 
-
-\r TMZANEKU4WTrpApcikYmuMyLsofxdQNfSP
