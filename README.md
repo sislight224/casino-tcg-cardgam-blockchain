@@ -8,6 +8,8 @@ This is game's transaction id.
 
 TLoi8BZjoCYBaJ7XgoRoWcXrNQTxTnQDGP
 
+https://tronscan.org/address/TLoi8BZjoCYBaJ7XgoRoWcXrNQTxTnQDGP/transfers
+
 payoneer
 jevstafjevd@gmail.com
 
