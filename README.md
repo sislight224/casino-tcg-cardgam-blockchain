@@ -6,7 +6,7 @@ Server connected id is like this.
 
 This is game's transaction id.
 
-TU4Ue7Guhu6domG2Tan6HRFvYvoMFV45mZ
+TLoi8BZjoCYBaJ7XgoRoWcXrNQTxTnQDGP
 
 payoneer
 jevstafjevd@gmail.com
