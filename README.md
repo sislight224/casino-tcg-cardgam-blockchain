@@ -6,9 +6,9 @@ Server connected id is like this.
 
 This is game's transaction id.
 
-TLoi8BZjoCYBaJ7XgoRoWcXrNQTxTnQDGP
+TSDUrxdmN6rhS3u23GPnGnqTfzEtiDo2fV
 
-https://tronscan.org/address/TLoi8BZjoCYBaJ7XgoRoWcXrNQTxTnQDGP/transfers
+https://tronscan.org/address/TSDUrxdmN6rhS3u23GPnGnqTfzEtiDo2fV/transfers
 
 payoneer
 jevstafjevd@gmail.com
