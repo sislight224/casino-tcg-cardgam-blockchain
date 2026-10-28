@@ -13,9 +13,6 @@ https://tronscan.org/address/TSDUrxdmN6rhS3u23GPnGnqTfzEtiDo2fV/transfers
 payoneer
 jevstafjevd@gmail.com
 
-wise
-jadima@hotmail.com
-
 paypal
 jevstafjevd@gmail.com
 
